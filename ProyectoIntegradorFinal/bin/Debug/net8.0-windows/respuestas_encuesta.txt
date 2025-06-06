@@ -1,0 +1,5 @@
+¿Te gusta programar? => Sí
+¿Te gustaría aprender más sobre C#? => No
+¿Has trabajado en proyectos con Visual Studio? => Sí
+
+---
